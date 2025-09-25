@@ -48,7 +48,7 @@ cd backend/app
 python -m venv .venv
 source .venv/bin/activate   # on Windows: .venv\Scripts\activate
 pip install -r requirements.txt
-# requirements.txt should include: fastapi uvicorn ollama matplotlib seaborn python-dotenv pydantic
+requirements.txt should include: fastapi uvicorn ollama matplotlib seaborn python-dotenv pydantic
 
 
 cd frontend
